@@ -4,7 +4,7 @@
 [![Platform](https://img.shields.io/badge/Platform-ESP32-green.svg)](https://www.espressif.com/en/products/socs/esp32)
 [![IoT Platform](https://img.shields.io/badge/IoT-Blynk-success.svg)](https://blynk.io/)
 
-**Smart Fish Feeding System** adalah proyek IoT berbasis ESP32 yang mengotomatisasi proses pemberian pakan ikan dan secara bersamaan memonitor kualitas air serta level pakan. Proyek ini terintegrasi penuh dengan platform **Blynk IoT** untuk kontrol manual, penjadwalan, dan monitoring data sensor secara *real-time* dari mana saja.
+**Smart Fish Feeding System** adalah proyek IoT berbasis ESP32-S3 yang mengotomatisasi proses pemberian pakan ikan dan secara bersamaan memonitor kualitas air serta level pakan. Proyek ini terintegrasi penuh dengan platform **Blynk IoT** untuk kontrol manual, penjadwalan, dan monitoring data sensor secara *real-time* dari mana saja.
 
 ***
 
